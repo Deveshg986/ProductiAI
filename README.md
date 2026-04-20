@@ -32,19 +32,19 @@ It combines:
 ### 🏠 Home Page
 
 <p align="center">
-  <img src="home.png" width="700">
+  <img src="assets/home.png" width="700">
 </p>
 
 ### 📊 Analyze Page
 
 <p align="center">
-  <img src="analyz.png" width="700">
+  <img src="assets/analyz.png" width="700">
 </p>
 
 ### ℹ️ About Page
 
 <p align="center">
-  <img src="about.png" width="700">
+  <img src="assets/about.png" width="700">
 </p>
 
 ---
