@@ -31,7 +31,7 @@ with tab1:
     This Tool help you to understand how your daily habits impact productivity.
     it use **Machine Learning** and **real-world logic** to provide accurate and meaningfull insight
     """)
-    st.divider(width="stretch")
+    st.divider()
 
     col1, col2, col3 = st.columns(3)
 
